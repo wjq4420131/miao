@@ -25,9 +25,9 @@ cur = conn.cursor()
 """
 
 user = "wangjinquan"  # 
-corpid = 'wx4b1207e05b64a7e9'  # CorpID是企业号的标识
+corpid = 'xxxxxxxx64a7e9'  # CorpID是企业号的标识
 #content="告警信息"
-corpsecret = 'pFdQQNDBtFHTw8c_hYAqI8cbi-dQaaAKqZq-WaUEvusuKAN9lRjxO0ZOW0iUeiNK'  # corpsecretSecret是管理组凭证密钥
+corpsecret = 'pxxxxxxxxxxxxxEvusuKAN9lRjxO0ZOW0iUeiNK'  # corpsecretSecret是管理组凭证密钥
 
 
 def get_ip():
